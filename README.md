@@ -1,7 +1,7 @@
-Hi! I'm FX 😄
+Hi! I'm FX ✌️
 ========================================================================================================================================
 
-🌍  I'm a VueJs and NodeJs developper based in Lille, France.
+🚀  I'm a VueJs and NodeJs developer based in Lille, France.
 <br/>
 
 ### My Skills
@@ -9,12 +9,9 @@ Hi! I'm FX 😄
 [![My Skills](https://skillicons.dev/icons?i=vue,js,vite,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=figma,vercel,pr)](https://skillicons.dev)
 <br/>
 
-👉<a href="https://www.fxsavary.com/">Visit my portfolio</a>
+👉&nbsp;<a href="https://www.fxsavary.com/">&nbsp;Visit my portfolio</a>
 
-### Socials
+👉&nbsp;<a href="https://www.linkedin.com/in/françois-xavier-savary-ab9665210/">&nbsp;Linkedin</a>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
+
