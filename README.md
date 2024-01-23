@@ -9,7 +9,7 @@ Hi! I'm FX 😄
 [![My Skills](https://skillicons.dev/icons?i=vue,js,vite,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=figma,vercel,pr)](https://skillicons.dev)
 <br/>
 
-👉<a href="www.fxsavary.com">Visit my portfolio</a>
+👉<a href="https://www.fxsavary.com/">Visit my portfolio</a>
 
 ### Socials
 
