@@ -1,7 +1,7 @@
 Hi! I'm FX ✌️
 ========================================================================================================================================
 
-🚀  I'm a VueJs, React, Typescript Front-End developer based in Lille, France.
+🚀  I'm a Front-End developer based in Lille, France.
 <br/>
 <br/>
 
