@@ -3,7 +3,7 @@ Hi! I'm FX ✌️
 
 🚀  I'm a Front-End developer based in Lille, France.
 <br/>
-👉 I'm currently working on "VibrLink" a 
+💻  I am currently working on "VibrLink", a SaaS dedicated to promoting music releases.
 <br/>
 
 ### My Skills
