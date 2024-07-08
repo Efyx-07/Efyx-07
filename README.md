@@ -13,7 +13,7 @@ Hi! I'm FX ✌️
 <br/>
 <br/>
 
-👉&nbsp;<button><a href="https://www.fxsavary.com/">&nbsp;Visit my portfolio</a></button>
+👉&nbsp;<a href="https://www.fxsavary.com/">&nbsp;Visit my portfolio</a>
 
 👉&nbsp;<a href="https://www.linkedin.com/in/françois-xavier-savary-ab9665210/">&nbsp;Linkedin</a>
 
