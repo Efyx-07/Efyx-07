@@ -5,11 +5,11 @@ Hi! I'm FX ✌️
 <br/>
 💻  Currently working on "VibrLink", a SaaS dedicated to promoting music releases.
 <br/>
-🌐  My current stack: NextJs / Zustand / Sass / Typescript / Express / MySQL
+🌐  My current stack: NextJs / Zustand / Sass / Typescript / NestJs / MySQL
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,ts,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,ts,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 <br/>
 <br/>
 
