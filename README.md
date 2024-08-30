@@ -57,8 +57,10 @@
         </a>
       </td>
     </tr>
-  </tbody>
+  </tbody> 
 </table>
+
+<h2>Stats</h2>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Efyx-07&hide=html&langs_count=6&theme=dark)
 
