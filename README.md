@@ -7,13 +7,53 @@ Hi! I'm FX ✌️
 <br/>
 🌐  My current stack: NextJs / Zustand / Sass / Typescript / NestJs / MySQL
 
+[![Visit my portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-%23009E49?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.fxsavary.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/françois-xavier-savary-ab9665210/)
+
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,ts,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-<br/>
-<br/>
-
-👉&nbsp;<a href="https://www.fxsavary.com/">&nbsp;Visit my portfolio</a>
-
-👉&nbsp;<a href="https://www.linkedin.com/in/françois-xavier-savary-ab9665210/">&nbsp;Linkedin</a>
-
+<table border="1">
+  <tbody>
+    <tr>
+      <td>Language</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ts,js" alt="Language Skills">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,next,vue" alt="Frontend Skills">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql" alt="Backend Skills">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>UI / Design</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=sass,figma,ps" alt="UI / Design Skills">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Tools</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vercel,vitest,jest" alt="Tools Skills">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
