@@ -1,11 +1,11 @@
 ✌️ Hi, I'm FX !
 ========================================================================================================================================
 
-🚀  I'm a Front-End developer based in Lille, France.
-<br/>
-💻  Currently working on "VibrLink", a SaaS dedicated to promoting music releases.
-<br/>
-🌐  My current stack: NextJs / Zustand / Sass / Typescript / NestJs / MySQL
+🚀 &nbsp; I'm a "Frontend oriented" Fullstack developer based in Lille, France.
+
+💻 &nbsp; Currently working on <a href="https://example.com](https://vibrlink-next-test.vercel.app/">VibrLink</a>,, a SaaS dedicated to promoting music releases.
+
+🌐 &nbsp; My current stack: NextJs / Zustand / Sass / Typescript / NestJs / MySQL
 
 <br/>
 <h2>My Links</h2>
