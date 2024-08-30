@@ -7,12 +7,14 @@
 <br/>
 🌐  My current stack: NextJs / Zustand / Sass / Typescript / NestJs / MySQL
 
+<br/>
 <h2>My Links</h2>
 
 [![Visit my portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-%23009E49?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.fxsavary.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/françois-xavier-savary-ab9665210/)
 
+<br/>
 <h2>My Skills</h2>
 
 <table border="1">
@@ -60,6 +62,7 @@
   </tbody> 
 </table>
 
+<br/>
 <h2>Stats</h2>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Efyx-07&hide=html&langs_count=6&theme=dark)
