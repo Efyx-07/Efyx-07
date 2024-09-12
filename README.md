@@ -54,7 +54,7 @@
       <td>Tools</td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vercel,vitest,jest" alt="Tools Skills">
+          <img src="https://skillicons.dev/icons?i=vercel,jest" alt="Tools Skills">
         </a>
       </td>
     </tr>
