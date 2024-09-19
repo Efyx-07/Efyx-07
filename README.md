@@ -5,7 +5,7 @@
 
 💻 &nbsp; Currently working on <a href="https://example.com](https://vibrlink-next-test.vercel.app/">VibrLink</a>, a SaaS dedicated to promoting music releases.
 
-🌐 &nbsp; My current stack: NextJs / Zustand / Sass / Typescript / NestJs / MySQL
+🌐 &nbsp; My current stack: Typescript / NextJs-ReactJs / Zustand / Sass / NestJs / MySQL
 
 <br/>
 <h2>My Links</h2>
