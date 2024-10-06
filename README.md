@@ -46,7 +46,7 @@
       <td>UI / Design</td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=sass,figma,ps" alt="UI / Design Skills">
+          <img src="https://skillicons.dev/icons?i=sass,tailwind,figma,ps" alt="UI / Design Skills">
         </a>
       </td>
     </tr>
