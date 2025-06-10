@@ -12,7 +12,6 @@
 - Zustand
 - TailwindCSS
 - NestJs
-- MySQL
 
 <br/>
 <h2>My Links</h2>
